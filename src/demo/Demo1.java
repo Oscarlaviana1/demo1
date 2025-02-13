@@ -10,6 +10,8 @@ public class Demo1 {
 		System.out.println("cambios en main, con branch 1 creada");
 		
 		System.out.println("cambio simultaneo entre dos ramas. Naranja");
+		
+		System.out.println("cambio simultaneo con rebase en main. Silla");
 	}
 
 }
