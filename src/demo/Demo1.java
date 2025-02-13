@@ -8,6 +8,8 @@ public class Demo1 {
 		System.out.println("Linea 3");
 		
 		System.out.println("cambios en main, con branch 1 creada");
+		
+		System.out.println("Cambio simultaneo entre main y branch 1. Pera");
 	}
 
 }
