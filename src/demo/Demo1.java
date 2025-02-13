@@ -11,7 +11,7 @@ public class Demo1 {
 		
 		System.out.println("cambio simultaneo entre dos ramas. Naranja");
 		
-		System.out.println("cambio simultaneo con rebase en main. Silla");
+		System.out.println("cambio simultaneo con rebase. Armario");
 	}
 
 }
